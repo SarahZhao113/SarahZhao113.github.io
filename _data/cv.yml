@@ -1,97 +1,83 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Mathematics
+      institution: Shandong University
+      year: 2021/09 - 2024/06
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Majored courses<span>:</span> Foundations of Dynamical Systems, Foundations of Nonlinear Functional Analysis, Boundary Value Problems of Differential Equations, Advanced Functional Analysis, Advanced Modern Algebra, etc.
+    - title: B.S. in Statistics
+      institution: Shandong University
+      year: 2017/09 - 2021/06
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Majored courses<span>:</span> Mathematical Analysis, Advanced Algebra, Probability Theory and Mathematical Statistics, Real Analysis, Complex Analysis, Functional Analysis, Ordinary Differential Equations, Applied Regression Analysis, Mathematical Physics Equations, Statistical Analysis Software, etc.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <strong style="color:red;">(Top 6%)</strong> Excellent Graduate, Shandong Province
+        - Excellent Graduate, Shandong University
+    - year: 2023
       items:
-        - Max Planck Medal
+        - <strong style="color:red;">(Top %)</strong> Second Prize in the 20th China Post-Graduate Mathematical Contest in Modeling
+        - <strong style="color:red;">(Top %)</strong> Second Prize in the 19th China Post-Graduate Mathematical Contest in Modeling
+    - year: 2022
+      items:
+        - <strong style="color:red;">(Top 2%)</strong> National Scholarship
+        - Advanced Individual of Innovation and Entrepreneurship Activities, Shandong University
+        - Graduate Innovation Competition Award, Shandong University
+    - year: 2021
+      items:
+        - <strong style="color:red;">(Top %)</strong> Third Prize in the 18th China Post-Graduate Mathematical Contest in Modeling
+    - year: 2019
+      items:
+        - Second Prize in China Undergraduate Mathematical Contest in Modeling (MCM), Shandong Province
+        - Third Prize in China Mathematics Competition
+        - Third Prize in MathorCup College Mathematical Contest in Modeling
+        - Third Prize in May Day Mathematical Contest in Modeling
+        - First Prize in Mathematical Contest in Modeling, Shandong University
+
+- title: Experience
+  type: time_table
+  contents:
+    - year: 2023/04/21 - 2023/04/23
+      items:
+        - The 6th Academic Annual Conference on Chaos and Nonlinear Circuits of the Circuit and System Branch of the Chinese Institute of Electronics
+    - year: 2022/04/15 - 2022/04/16
+      items:
+        - The 5th Academic Annual Conference on Chaos and Nonlinear Circuits of the Circuit and System Branch of the Chinese Institute of Electronics
+    - year: 2022/07/17 - 2022/08/12
+      items:
+        - Summer School on Nonlinear Partial Differential Equations, Department of Education of Hunan Province
+    - year: 2021/12/05 - 2021/12/24
+      items:
+        - Fractional Brownian Motion and Stochastic Dynamical Systems Specialized Workshop, School of Mathematics of South China University of Technology
+    - year: 2019/07 - 2019/08
+      items:
+        - Summer School on Mathematical Laboratory and Modeling, Department of Mathematics of Hong Kong University
+    - year: 2018
+      items:
+        - Research Assistant, School of Mathematics and Statistics of Shandong University
+
+- title: Skills
+  type: nested_list
+  contents: 
+    - title: Programming and Tools
+      items:
+        - MATLAB
+        - LaTeX
+    - title: English
+      items:
+        - CET-6<span>:</span> 515
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Differential equations and dynamical systems
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
