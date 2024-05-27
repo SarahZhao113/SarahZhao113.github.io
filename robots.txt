@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sarahzhao113.github.io/sitemap.xml
